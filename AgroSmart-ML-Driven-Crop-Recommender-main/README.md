@@ -45,7 +45,7 @@ Thanks to the following people for their contributions:
 
 - [@Diya Thakkar](https://github.com/DiyaT8)
 - [@Rahul Zore](https://github.com/Rahul-Zore2005)
-- [@Soham Shigvan](https://github.com/Soham-Edith)
+
 
 
 ## Conclusion 
